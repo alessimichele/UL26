@@ -13,3 +13,5 @@ Lab exercises tracks:
 - [Lab 3](lab3.pdf) solution [here](Notebooks/Lab3-Isomap.ipynb)
 
 - [Lab 4](lab4.pdf) solution [here](Notebooks/Lab4-KernelPCA.ipynb)
+
+- [Lab 5](lab5.pdf)
