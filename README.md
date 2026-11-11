@@ -15,3 +15,5 @@ Lab exercises tracks:
 - [Lab 4](lab4.pdf) solution [here](Notebooks/Lab4-KernelPCA.ipynb)
 
 - [Lab 5](lab5.pdf) solution [here](Notebooks/Lab5-DimensionalityReduction.ipynb)
+
+- [Lab 6](lab6.pdf)
