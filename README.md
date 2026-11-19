@@ -16,4 +16,4 @@ Lab exercises tracks:
 
 - [Lab 5](lab5.pdf) solution [here](Notebooks/Lab5-DimensionalityReduction.ipynb)
 
-- [Lab 6](lab6.pdf)
+- [Lab 6](lab6.pdf) solution [here](Notebooks/Lab6-kMeans.ipynb)
