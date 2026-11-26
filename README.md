@@ -20,4 +20,4 @@ Lab exercises tracks:
 
 - [Lab 7](lab7.pdf) solution [here](Notebooks/Lab7-kMedoids-cMeans.ipynb)
 
-- [Lab 8](lab8.pdf)
+- [Lab 8](lab8.pdf) solution [here](Notebooks/Lab8-HierarchicalSpectral.ipynb)
